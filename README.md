@@ -8,7 +8,6 @@
   Junior Embedded Systems Developer with hands-on experience in embedded firmware, sensor integration, and hardware/firmware validation.<br>
   Skilled in C/C++ and Python, with experience on STM32, ESP32, EFR32, and ARM Cortex-M (FreeRTOS).<br>
   Experienced in PCB design, bench testing, failure analysis, and technical documentation for product release.<br>
-  Open to relocation.
 </p>
 
 <h2>Education</h2>
