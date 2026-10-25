@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Eric</h1>
+<h1 align="center">Hello, I'm Eric</h1>
 
 <div align="center">
   <img width="50%" src="assets/Dog Wave GIF.gif" alt="dog">
