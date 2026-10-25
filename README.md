@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Eric</h1>
 
 <div align="center">
-  <img width="50%" src="assets/dog.jpg" alt="dog">
+  <img width="50%" src="assets/Dog Wave GIF.gif" alt="dog">
 </div>
 
 <p align="center">
